@@ -31,5 +31,34 @@ Tämän jälkeen muokattu ensimmäistä tiedostoa.
 
 Siirryin eteenpäin, tämä aihe ennalta suht tuttua (commit -viestit voisivat toki olla parempia(kin))
 
+## b) Kaikki kirjataan. Näytä omalla git-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
+
+Samalla kun testattiin komentoja, niin kokeilin miten kuvakaappauksen saa lisättyä osaksi dokumenttia.
+Aloitettu syöttämällä:
+
+	$ git log
+
+Tästä saatu tulos:
+
 ![Image](https://github.com/niikari/palvelintenhallinta/blob/main/gitlog.JPG?raw=true)
+
+Näkyy kaikki tehdyt commitit ja missä branchissa tällä hetkellä olen muutoksia tekemässä (HEAD -> main).
+Kaikki commitit on merkitty hashilla, mukana commitin tekijän tieto ja commit viesti. Näkyvillä on useampi tehty commit.
+
+	$ git diff
+
+Tästä saatu tulos:
+
+![Image](https://github.com/niikari/palvelintenhallinta/blob/main/git%20diff.JPG?raw=true)
+
+Näyttää muutokset, joita on tehty, mutta ei vielä commit tehty. Puhutaan eroista riveissä (tyhjä rivi lasketaan muutokseksi)
+
+
+
+
+
+
+
+
+
 
