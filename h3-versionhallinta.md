@@ -69,6 +69,12 @@ Näkyvillä on lisätietoja mitä voi laittaa käskyn mukana. Esim.:
 
 -L optiolla rajataan hakua tiedoston sisältä - tässä tapauksessa haetaan riveille 1-5 tehtyjä muutoksia
 
+## c) Huppis! Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset --hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
+
+Kuvakaappaus vaiheista, jotka tehty:
+
+![Image](https://github.com/niikari/palvelintenhallinta/blob/main/git%20blame.JPG?raw=true)
+
 
 
 
