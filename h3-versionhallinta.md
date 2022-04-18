@@ -61,7 +61,7 @@ debuggaus työkalu. Pystyy hakemaan esim. yhteen tiettyyn tiedostoon tehtyjen mu
 
 Tämän ajosta saatu tulos:
 
-[!Image](https://github.com/niikari/palvelintenhallinta/blob/main/git%20blame.JPG?raw=true)
+![Image](https://github.com/niikari/palvelintenhallinta/blob/main/git%20blame.JPG?raw=true)
 
 Näkyvillä on lisätietoja mitä voi laittaa käskyn mukana. Esim.:
 
