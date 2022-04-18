@@ -73,7 +73,7 @@ Näkyvillä on lisätietoja mitä voi laittaa käskyn mukana. Esim.:
 
 Kuvakaappaus vaiheista, jotka tehty:
 
-![Image](https://github.com/niikari/palvelintenhallinta/blob/main/git%20blame.JPG?raw=true)
+![Image](https://github.com/niikari/palvelintenhallinta/blob/main/Dumb.JPG?raw=true)
 
 
 
