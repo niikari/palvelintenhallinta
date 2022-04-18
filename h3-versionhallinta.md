@@ -54,6 +54,21 @@ Tästä saatu tulos:
 Näyttää muutokset, joita on tehty, mutta ei vielä commit tehty. Puhutaan eroista riveissä (tyhjä rivi lasketaan muutokseksi)
 
 
+	$ git blame
+
+Mikä on blame? Atlassianin [Link](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-blame) mukaan on monipuolinen
+debuggaus työkalu. Pystyy hakemaan esim. yhteen tiettyyn tiedostoon tehtyjen muutosten tekijät ja tarkat tiedot commitista.
+
+Tämän ajosta saatu tulos:
+
+![Image](https://github.com/niikari/palvelintenhallinta/blob/main/git%20blame.JPG?raw=true)
+
+Näkyvillä on lisätietoja mitä voi laittaa käskyn mukana. Esim.:
+
+	$ git blame -L 1,5 README.md
+
+-L optiolla rajataan hakua tiedoston sisältä - tässä tapauksessa haetaan riveille 1-5 tehtyjä muutoksia
+
 
 
 
